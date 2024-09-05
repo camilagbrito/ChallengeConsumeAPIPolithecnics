@@ -1,0 +1,28 @@
+[
+  {
+    "ContainingType": "ChallengeConsumeAPI.Controllers.InstituteController",
+    "Method": "GetPolytechnics",
+    "RelativePath": "api/Institute/GetPolytechnics",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "ChallengeConsumeAPI.Controllers.InstituteController",
+    "Method": "GetPolytechnicsOrderedByName",
+    "RelativePath": "api/Institute/GetPolytechnicsOrderedByName",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "isAscending",
+        "Type": "System.Boolean",
+        "IsRequired": false
+      }
+    ],
+    "ReturnTypes": []
+  }
+]
