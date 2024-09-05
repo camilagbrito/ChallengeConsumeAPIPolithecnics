@@ -1,6 +1,4 @@
-﻿using System.Text.Json.Serialization;
-
-namespace ChallengeConsumeAPI.Models
+﻿namespace ChallengeConsumeAPI.Models
 {
     public class WebSite
     {

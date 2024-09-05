@@ -1,7 +1,5 @@
-﻿using ChallengeConsumeAPI.Dtos;
-using ChallengeConsumeAPI.Interfaces;
+﻿using ChallengeConsumeAPI.Interfaces;
 using ChallengeConsumeAPI.Models;
-using System.Dynamic;
 using System.Text.Json;
 
 namespace ChallengeConsumeAPI.Request

@@ -16,9 +16,8 @@ builder.Services.AddSingleton<IHipolabsService, HipolabsService>();
 
 builder.Services.AddAutoMapper(AppDomain.CurrentDomain.GetAssemblies());
 
-
 var app = builder.Build();
-//objResponse.Count
+
 
 if (app.Environment.IsDevelopment())
 {

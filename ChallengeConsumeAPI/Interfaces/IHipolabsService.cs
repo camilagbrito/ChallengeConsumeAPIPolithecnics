@@ -1,5 +1,4 @@
-﻿using ChallengeConsumeAPI.Dtos;
-using ChallengeConsumeAPI.Models;
+﻿using ChallengeConsumeAPI.Models;
 
 namespace ChallengeConsumeAPI.Interfaces
 {

@@ -1,8 +1,6 @@
 ﻿using AutoMapper;
 using ChallengeConsumeAPI.Dtos;
 using ChallengeConsumeAPI.Interfaces;
-using System.Text.Json;
-
 
 
 namespace ChallengeConsumeAPI.Services
