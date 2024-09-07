@@ -1,20 +1,20 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\cbrito\\Desktop\\Projetos\\ChallengeConsumeAPI\\ChallengeConsumeAPI\\ChallengeConsumeAPI\\ChallengeConsumeAPI.csproj": {}
+    "D:\\Projetos API\\ChallengeConsumeAPIPolithecnics\\ChallengeConsumeAPI\\ChallengeConsumeAPI.csproj": {}
   },
   "projects": {
-    "C:\\Users\\cbrito\\Desktop\\Projetos\\ChallengeConsumeAPI\\ChallengeConsumeAPI\\ChallengeConsumeAPI\\ChallengeConsumeAPI.csproj": {
+    "D:\\Projetos API\\ChallengeConsumeAPIPolithecnics\\ChallengeConsumeAPI\\ChallengeConsumeAPI.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\cbrito\\Desktop\\Projetos\\ChallengeConsumeAPI\\ChallengeConsumeAPI\\ChallengeConsumeAPI\\ChallengeConsumeAPI.csproj",
+        "projectUniqueName": "D:\\Projetos API\\ChallengeConsumeAPIPolithecnics\\ChallengeConsumeAPI\\ChallengeConsumeAPI.csproj",
         "projectName": "ChallengeConsumeAPI",
-        "projectPath": "C:\\Users\\cbrito\\Desktop\\Projetos\\ChallengeConsumeAPI\\ChallengeConsumeAPI\\ChallengeConsumeAPI\\ChallengeConsumeAPI.csproj",
-        "packagesPath": "C:\\Users\\cbrito\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\cbrito\\Desktop\\Projetos\\ChallengeConsumeAPI\\ChallengeConsumeAPI\\ChallengeConsumeAPI\\obj\\",
+        "projectPath": "D:\\Projetos API\\ChallengeConsumeAPIPolithecnics\\ChallengeConsumeAPI\\ChallengeConsumeAPI.csproj",
+        "packagesPath": "C:\\Users\\MaiconCamila\\.nuget\\packages\\",
+        "outputPath": "D:\\Projetos API\\ChallengeConsumeAPIPolithecnics\\ChallengeConsumeAPI\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "C:\\Users\\cbrito\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\MaiconCamila\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
@@ -22,7 +22,6 @@
         ],
         "sources": {
           "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
-          "C:\\Program Files\\dotnet\\library-packs": {},
           "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {
@@ -78,7 +77,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.400/PortableRuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.202/PortableRuntimeIdentifierGraph.json"
         }
       }
     }

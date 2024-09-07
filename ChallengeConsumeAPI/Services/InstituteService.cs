@@ -21,7 +21,6 @@ namespace ChallengeConsumeAPI.Services
         {
             var institutes = await _hipolabsService.GetPolytechnics();
 
-
             var response = _mapper.Map <List<InstituteDto>>(institutes);
 
             var totalCount = await GetTotalCount(response);

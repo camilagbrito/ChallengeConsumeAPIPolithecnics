@@ -8,7 +8,8 @@ namespace ChallengeConsumeAPI.AutoMapper
     {
         public AutoMapperConfig()
         {
-            CreateMap<InstituteDto, Institute>().ReverseMap();
+            CreateMap<InstituteDto, Institute>().ReverseMap().ForMember(
+                dest => dest.WebPages, opt => opt.MapFrom(url => url.WebPages.FirstOrDefault()));
         }
     }
 }

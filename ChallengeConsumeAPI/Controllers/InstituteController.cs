@@ -21,7 +21,7 @@ namespace ChallengeConsumeAPI.Controllers
         {
            var institutes = await _instituteService.GetPolytechnics();
   
-            return Ok(institutes);
+           return Ok(institutes);
         }
 
 

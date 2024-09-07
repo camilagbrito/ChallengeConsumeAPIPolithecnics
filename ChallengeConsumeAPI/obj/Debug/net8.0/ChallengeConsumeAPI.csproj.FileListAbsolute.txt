@@ -32,3 +32,38 @@ C:\Users\cbrito\Desktop\Projetos\ChallengeConsumeAPI\ChallengeConsumeAPI\Challen
 C:\Users\cbrito\Desktop\Projetos\ChallengeConsumeAPI\ChallengeConsumeAPI\ChallengeConsumeAPI\obj\Debug\net8.0\ref\ChallengeConsumeAPI.dll
 C:\Users\cbrito\Desktop\Projetos\ChallengeConsumeAPI\ChallengeConsumeAPI\ChallengeConsumeAPI\bin\Debug\net8.0\AutoMapper.dll
 C:\Users\cbrito\Desktop\Projetos\ChallengeConsumeAPI\ChallengeConsumeAPI\ChallengeConsumeAPI\bin\Debug\net8.0\Swashbuckle.AspNetCore.Annotations.dll
+D:\Projetos API\ChallengeConsumeAPIPolithecnics\ChallengeConsumeAPI\bin\Debug\net8.0\appsettings.Development.json
+D:\Projetos API\ChallengeConsumeAPIPolithecnics\ChallengeConsumeAPI\bin\Debug\net8.0\appsettings.json
+D:\Projetos API\ChallengeConsumeAPIPolithecnics\ChallengeConsumeAPI\bin\Debug\net8.0\ChallengeConsumeAPI.exe
+D:\Projetos API\ChallengeConsumeAPIPolithecnics\ChallengeConsumeAPI\bin\Debug\net8.0\ChallengeConsumeAPI.deps.json
+D:\Projetos API\ChallengeConsumeAPIPolithecnics\ChallengeConsumeAPI\bin\Debug\net8.0\ChallengeConsumeAPI.runtimeconfig.json
+D:\Projetos API\ChallengeConsumeAPIPolithecnics\ChallengeConsumeAPI\bin\Debug\net8.0\ChallengeConsumeAPI.dll
+D:\Projetos API\ChallengeConsumeAPIPolithecnics\ChallengeConsumeAPI\bin\Debug\net8.0\ChallengeConsumeAPI.pdb
+D:\Projetos API\ChallengeConsumeAPIPolithecnics\ChallengeConsumeAPI\bin\Debug\net8.0\AutoMapper.dll
+D:\Projetos API\ChallengeConsumeAPIPolithecnics\ChallengeConsumeAPI\bin\Debug\net8.0\Microsoft.OpenApi.dll
+D:\Projetos API\ChallengeConsumeAPIPolithecnics\ChallengeConsumeAPI\bin\Debug\net8.0\Swashbuckle.AspNetCore.Annotations.dll
+D:\Projetos API\ChallengeConsumeAPIPolithecnics\ChallengeConsumeAPI\bin\Debug\net8.0\Swashbuckle.AspNetCore.Swagger.dll
+D:\Projetos API\ChallengeConsumeAPIPolithecnics\ChallengeConsumeAPI\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+D:\Projetos API\ChallengeConsumeAPIPolithecnics\ChallengeConsumeAPI\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+D:\Projetos API\ChallengeConsumeAPIPolithecnics\ChallengeConsumeAPI\obj\Debug\net8.0\ChallengeConsumeAPI.csproj.AssemblyReference.cache
+D:\Projetos API\ChallengeConsumeAPIPolithecnics\ChallengeConsumeAPI\obj\Debug\net8.0\ChallengeConsumeAPI.GeneratedMSBuildEditorConfig.editorconfig
+D:\Projetos API\ChallengeConsumeAPIPolithecnics\ChallengeConsumeAPI\obj\Debug\net8.0\ChallengeConsumeAPI.AssemblyInfoInputs.cache
+D:\Projetos API\ChallengeConsumeAPIPolithecnics\ChallengeConsumeAPI\obj\Debug\net8.0\ChallengeConsumeAPI.AssemblyInfo.cs
+D:\Projetos API\ChallengeConsumeAPIPolithecnics\ChallengeConsumeAPI\obj\Debug\net8.0\ChallengeConsumeAPI.csproj.CoreCompileInputs.cache
+D:\Projetos API\ChallengeConsumeAPIPolithecnics\ChallengeConsumeAPI\obj\Debug\net8.0\ChallengeConsumeAPI.MvcApplicationPartsAssemblyInfo.cs
+D:\Projetos API\ChallengeConsumeAPIPolithecnics\ChallengeConsumeAPI\obj\Debug\net8.0\ChallengeConsumeAPI.MvcApplicationPartsAssemblyInfo.cache
+D:\Projetos API\ChallengeConsumeAPIPolithecnics\ChallengeConsumeAPI\obj\Debug\net8.0\ChallengeConsumeAPI.sourcelink.json
+D:\Projetos API\ChallengeConsumeAPIPolithecnics\ChallengeConsumeAPI\obj\Debug\net8.0\staticwebassets.build.json
+D:\Projetos API\ChallengeConsumeAPIPolithecnics\ChallengeConsumeAPI\obj\Debug\net8.0\staticwebassets.development.json
+D:\Projetos API\ChallengeConsumeAPIPolithecnics\ChallengeConsumeAPI\obj\Debug\net8.0\staticwebassets\msbuild.ChallengeConsumeAPI.Microsoft.AspNetCore.StaticWebAssets.props
+D:\Projetos API\ChallengeConsumeAPIPolithecnics\ChallengeConsumeAPI\obj\Debug\net8.0\staticwebassets\msbuild.build.ChallengeConsumeAPI.props
+D:\Projetos API\ChallengeConsumeAPIPolithecnics\ChallengeConsumeAPI\obj\Debug\net8.0\staticwebassets\msbuild.buildMultiTargeting.ChallengeConsumeAPI.props
+D:\Projetos API\ChallengeConsumeAPIPolithecnics\ChallengeConsumeAPI\obj\Debug\net8.0\staticwebassets\msbuild.buildTransitive.ChallengeConsumeAPI.props
+D:\Projetos API\ChallengeConsumeAPIPolithecnics\ChallengeConsumeAPI\obj\Debug\net8.0\staticwebassets.pack.json
+D:\Projetos API\ChallengeConsumeAPIPolithecnics\ChallengeConsumeAPI\obj\Debug\net8.0\scopedcss\bundle\ChallengeConsumeAPI.styles.css
+D:\Projetos API\ChallengeConsumeAPIPolithecnics\ChallengeConsumeAPI\obj\Debug\net8.0\Challeng.4D9A2C79.Up2Date
+D:\Projetos API\ChallengeConsumeAPIPolithecnics\ChallengeConsumeAPI\obj\Debug\net8.0\ChallengeConsumeAPI.dll
+D:\Projetos API\ChallengeConsumeAPIPolithecnics\ChallengeConsumeAPI\obj\Debug\net8.0\refint\ChallengeConsumeAPI.dll
+D:\Projetos API\ChallengeConsumeAPIPolithecnics\ChallengeConsumeAPI\obj\Debug\net8.0\ChallengeConsumeAPI.pdb
+D:\Projetos API\ChallengeConsumeAPIPolithecnics\ChallengeConsumeAPI\obj\Debug\net8.0\ChallengeConsumeAPI.genruntimeconfig.cache
+D:\Projetos API\ChallengeConsumeAPIPolithecnics\ChallengeConsumeAPI\obj\Debug\net8.0\ref\ChallengeConsumeAPI.dll
